@@ -1,8 +1,3 @@
-# React + Vite
+# Zustand and React Query 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This code shows how to use **zustand** for managing client-side state and **@tanstack/react-query** for managing server-side state. [Zustand] is a small and fast state management library that lets you create and use custom hooks. [React Query] is a data fetching and caching library that helps you work with asynchronous data from APIs.
